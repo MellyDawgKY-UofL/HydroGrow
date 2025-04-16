@@ -31,7 +31,7 @@ Welcome to **HydroGrow**, a smart hydroponic automation system powered by the ES
 
 ## 🧠 Why Transistors, Not L293D?
 
-Originally, an L293D motor driver was originally used to control the relays, but it couldn’t identify the current, impedence, or demand\load. Swapping to **NPN transistors** provided a seamless, stable solution—ensuring proper switching and full compatibility with the ESP32’s low-power output.
+Originally, an L293D motor driver was envisioned to control the relays, but it couldn’t identify the current, impedence, or demand\load. Swapping to **NPN transistors** provided a seamless, stable solution—ensuring proper switching and full compatibility with the ESP32’s low-power output.
 
 ---
 

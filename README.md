@@ -1,0 +1,2 @@
+# HydroGrow
+Simple Arduino Project

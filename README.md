@@ -58,7 +58,8 @@ Originally, an L293D was used to control the relays, but it couldn’t handle th
 
 ## 📸 Demo & Images
 
-📷 *[Insert photos or gifs of your setup here]*
+📷 <img width="692" alt="image" src="https://github.com/user-attachments/assets/c420e211-8efb-4c61-8ce9-c410cb35e858" />
+
 
 ---
 

@@ -60,6 +60,8 @@ Originally, an L293D motor driver was envisioned to control the relays, but it c
 
 📷 <img width="692" alt="image" src="https://github.com/user-attachments/assets/c420e211-8efb-4c61-8ce9-c410cb35e858" />
 <img width="379" alt="image" src="https://github.com/user-attachments/assets/d1e1354d-96f9-4c35-a1c8-74a2759bf347" />
+<img width="1323" alt="CodeSchematic" src="https://github.com/user-attachments/assets/48583b7c-d79b-46ef-9233-c33c7e619caf" />
+
 
 ---
 

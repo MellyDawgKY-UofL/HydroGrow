@@ -48,7 +48,8 @@ Originally, an L293D motor driver was envisioned to control the relays, but it c
 
 ## 🚀 Future Upgrades
 
-- 🌬️ Add fan control & air circulation logic
+- 🌬️ Actually write the code to use times to trigger, start stop, etc., project was not code focussed, SOC project - I just took it to the inth degree and made it functional.
+- Add fan control & air circulation logic
 - 🌊 Add water level, pH, and TDS monitoring
 - 📲 Mobile dashboard (ESPAsync + Bootstrap)
 - ☁️ Optional cloud sync & historical data logging
